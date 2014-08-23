@@ -1,7 +1,0 @@
-Sample text document
-
-Change 1 : this is the first change
-
-Change 2: this is the second change
-
-Change 3: This is the third change that i am applying.
